@@ -1,0 +1,8 @@
+logging:
+  level:
+    com.comfone: DEBUG
+    org.springframework.security: INFO
+    org.springframework.web: INFO
+    org.hibernate: TRACE
+    org.hibernate.SQL: TRACE
+    org.hibernate.type: INFO
